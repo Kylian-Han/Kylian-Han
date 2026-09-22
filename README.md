@@ -1,6 +1,9 @@
 # About Me:
-Student at University of Orleans 45000 France
+Bachelor Student at University of Orleans France
 
+I love fixing problems, whether they involve hardware or software.
+
+I do Judo, and bouldering.
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/petitenc__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kylian-haniquet) 
